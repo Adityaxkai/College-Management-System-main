@@ -98,7 +98,6 @@ router.get('/studentlist', UserController.getAllUsersWithCompanies);
 
 //Card details
 router.post('/save-card', cardController.saveCardDetails);
-
 // ............................ 
 
 // Notice
